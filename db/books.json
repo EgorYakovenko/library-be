@@ -1,0 +1,50 @@
+[
+  {
+    "isbn": "978-3-16-148410-0",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "author": "J.K. Rowling",
+    "isBorrowed": "true"
+  },
+  {
+    "isbn": "978-1-56619-909-4",
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "isBorrowed": true
+  },
+  {
+    "isbn": "1",
+    "title": "й",
+    "author": "й",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "2",
+    "title": "ц2",
+    "author": "ц3",
+    "isBorrowed": "true"
+  },
+  {
+    "isbn": "3",
+    "title": "33",
+    "author": "44",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "4",
+    "title": "44",
+    "author": "45",
+    "isBorrowed": true
+  },
+  {
+    "isbn": "12121212",
+    "title": "qqqq",
+    "author": "qqqqq",
+    "isBorrowed": false
+  },
+  {
+    "isbn": "22222",
+    "title": "qweqweqwe",
+    "author": "eqweqwq",
+    "isBorrowed": "true"
+  }
+]
