@@ -12,39 +12,9 @@
     "isBorrowed": true
   },
   {
-    "isbn": "1",
-    "title": "й",
-    "author": "й",
+    "isbn": "1111",
+    "title": "qqq",
+    "author": "wwww",
     "isBorrowed": false
-  },
-  {
-    "isbn": "2",
-    "title": "ц2",
-    "author": "ц3",
-    "isBorrowed": "true"
-  },
-  {
-    "isbn": "3",
-    "title": "33",
-    "author": "44",
-    "isBorrowed": false
-  },
-  {
-    "isbn": "4",
-    "title": "44",
-    "author": "45",
-    "isBorrowed": true
-  },
-  {
-    "isbn": "12121212",
-    "title": "qqqq",
-    "author": "qqqqq",
-    "isBorrowed": false
-  },
-  {
-    "isbn": "22222",
-    "title": "qweqweqwe",
-    "author": "eqweqwq",
-    "isBorrowed": "true"
   }
 ]
